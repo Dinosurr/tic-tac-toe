@@ -176,8 +176,6 @@ class TicTacToe:
             else:
                 try:
                     column, row = self.uInput()
-                except KeyboardInterrupt:
-                    print("Game stopped")
                 except BadInput as invalidMove:
                     print(invalidMove.error)
                 else:
