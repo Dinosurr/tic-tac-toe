@@ -7,4 +7,4 @@ stats will be saved to score.py, making changes to the file might break the prog
 The program will let you chose to play with two players or against the computer
 
 
-Program was written by me but heavily inspired by https://codereview.stackexchange.com/questions/173753/object-oriented-tic-tac-toe-game
+Program was written by me but inspired by https://codereview.stackexchange.com/questions/173753/object-oriented-tic-tac-toe-game
