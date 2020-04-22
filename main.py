@@ -89,6 +89,7 @@ class TicTacToe:
         randCol = random.randint(0, 2)
         randRow = random.randint(0, 2)
         self.makeMove(randCol, randRow, self.nextPlayer)
+        print("Computer made its move!")
 
     def printScore(self, winner, turns):
         with open('score.py', 'r') as f:
